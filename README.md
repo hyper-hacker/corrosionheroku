@@ -3,7 +3,7 @@
 Titanium Networks main web proxy.
 Successor to [Alloy](https://github.com/titaniumnetwork-dev/alloy).
 
-[![Deploy to Heroku](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/BinBashBanana/Corrosion-Heroku)
+[![Deploy to Heroku](https://raw.githubusercontent.com/hyper-hacker/deploy-buttons/master/buttons/remade/heroku.svg)](https://heroku.com/deploy/?template=https://github.com/hyper-hacker/corrosionheroku)
 [![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/BinBashBanana/Corrosion-Heroku)
 [![Remix on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/glitch.svg)](https://glitch.com/edit/#!/import/github/hyper-hacker/corrosionheroku)
 
